@@ -1,6 +1,6 @@
 # Evdosyuk Dmitry #
 
-![image] (./foto.jpg)
+![image] (foto.jpg)
 ### Contact information: ###  
 **Phone** +375291725328  
 **Email** yevdosyuk@outlook.com  
