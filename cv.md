@@ -8,4 +8,12 @@
 **Discord** DimaYevdosyuk  
 
 ### About Me ###  
-I am working at Belorussian NPP. I am married and I have 2-year dauther. I am user of Windows 7 still yeat. Sometimes I play in D&D as a half-orc warrior. I am started learning in RSSchool for expand my skills. New knowledge and skills let me created some interesting progects. For example, I want created app for players in D&D
+I am working at Belorussian NPP. I am married and I have 2-year dauther. I am user of Windows 7 still yeat. Sometimes I play in D&D as a half-orc warrior. I am started learning in RSSchool for expand my skills. New knowledge and skills let me created some interesting progects. For example, I want created app for players in D&D.  
+
+### Skills ###
+* HTML5
+* CSS
+* Git
+*JavaScript  
+
+
