@@ -14,6 +14,13 @@ I am working at Belorussian NPP. I am married and I have 2-year dauther. I am us
 * HTML5
 * CSS
 * Git
-*JavaScript  
+* JavaScript  
 
+### Code example ###
+```function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );```
 
