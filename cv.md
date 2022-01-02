@@ -1,6 +1,6 @@
 # Evdosyuk Dmitry #
 
-![image] (foto.jpg)
+![image alt] (https://github.com/DimaYevdosiuk/rsschool-cv/raw/gh-pages/foto.jpg)
 ### Contact information: ###  
 **Phone** +375291725328  
 **Email** yevdosyuk@outlook.com  
