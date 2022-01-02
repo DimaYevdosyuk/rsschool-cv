@@ -1,6 +1,6 @@
 # Evdosyuk Dmitry #
 
-![] (\rsschool-cv\foto.jpd)
+![] (D:\RsSchool\rsschool-cv\foto.jpg)
 ### Contact information: ###  
 **Phone** +375291725328  
 **Email** yevdosyuk@outlook.com  
@@ -30,3 +30,6 @@ I had some practices at C++ in University 6 years ago
 ### Education ###
 * Belarusian National Technical University - Power Engineer 2016
 * Academy of Public Administration under the aegis of the President of the Republic of Belarus - lawyer 2022
+
+### English ###
+Elementary A1+
