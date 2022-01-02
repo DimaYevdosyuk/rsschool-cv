@@ -17,7 +17,8 @@ I am working at Belorussian NPP. I am married and I have 2-year dauther. I am us
 * JavaScript  
 
 ### Code example ###
-``` function sum(a, b) {
+``` 
+function sum(a, b) {
   return a + b;
 }
 
