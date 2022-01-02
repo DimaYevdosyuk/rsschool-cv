@@ -24,6 +24,9 @@ function sum(a, b) {
 
 let result = sum(1, 2);
 alert( result );
-
-
-
+```
+### Experience ###
+I had some practices at C++ in University 6 years ago
+### Education ###
+* Belarusian National Technical University - Power Engineer 2016
+* Academy of Public Administration under the aegis of the President of the Republic of Belarus - lawyer 2022
