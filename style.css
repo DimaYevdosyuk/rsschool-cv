@@ -19,5 +19,14 @@
       flex-direction: row;
       justify-content: space-between;
   }
-
+  .area {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+.table {
+    display: flex;
+    flex-direction: column;
+    width: 2000px ;
+}
 </style>
