@@ -14,5 +14,10 @@
       flex-direction:row ;
       justify-content: space-between;
   }
+  .footer {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+  }
 
 </style>
