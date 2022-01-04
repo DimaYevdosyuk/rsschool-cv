@@ -1,0 +1,32 @@
+<style>
+  body 
+  main {
+    display: flex;
+    }
+  main > article {
+    flex: 1;
+  }
+   header, footer {
+    background: rgb(50, 205, 171);
+  }
+  .header {
+      display: flex;
+      flex-direction:row ;
+      justify-content: space-between;
+  }
+  .footer {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+  }
+  .area {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+.table {
+    display: flex;
+    flex-direction: column;
+    width: 2000px ;
+}
+</style>
