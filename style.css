@@ -4,6 +4,9 @@
     flex-direction: row;
     justify-content: space-between;
   }
+  main {
+    display: flex;
+  }
    header, footer {
     background: rgb(50, 205, 171);
   }
