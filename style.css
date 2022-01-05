@@ -1,11 +1,12 @@
 <style>
-  body 
+  body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
   main {
     display: flex;
     }
-  main > article {
-    flex: 1;
-  }
    header, footer {
     background: rgb(50, 205, 171);
   }
