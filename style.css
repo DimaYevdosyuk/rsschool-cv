@@ -1,12 +1,10 @@
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
   body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
   }
-  main {
-    display: flex;
-    }
    header, footer {
     background: rgb(50, 205, 171);
   }
