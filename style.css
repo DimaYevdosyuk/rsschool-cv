@@ -1,8 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@0;1&display=swap');
   body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+  }
+  h1 {
+    font-family: 'Lora', serif;
+  }
+  p {
+    font-family: 'Lora', serif;
+  }
+  li {
+    font-family: 'Lora', serif;
   }
   main {
     display: flex;
